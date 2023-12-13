@@ -1,0 +1,8 @@
+site_name: "New_Project"
+site_description: "example"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
